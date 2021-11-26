@@ -10,8 +10,8 @@ sig2 <- 3.8
 species.name <- "free_chicken"
     
 # e.g. "red"    
-color <- c("#7CCD7C", "#FFFFFF", "#FFFFFF")
+color <- "#7CCD7C"
     
 # tip: pick a color using rstudio colour picker. 
 # Addins > Colour Picker (to install: install.packages("colourpicker"))
-install.packages("colourpicker")
+# install.packages("colourpicker")
